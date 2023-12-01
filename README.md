@@ -1,1 +1,1 @@
-# Real_time_code_editor
+A real-time code editor built using Socket.io
